@@ -3,6 +3,7 @@ class Cookie
   attr_accessor :flour
   attr_accessor :butter
 
+
   SUGAR_CALORIES = 3.87
   FLOUR_CALORIES = 3.64
 
